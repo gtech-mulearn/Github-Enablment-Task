@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-This is the feature for the author to add a new book.
-
-=======
 This is the feature for the author to add new book.
->>>>>>> feature
