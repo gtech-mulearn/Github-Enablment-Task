@@ -114,7 +114,7 @@ You’re a superstar! You just learned the basic Git & Github workflow! 🥳 
 
 Now if you go to the pull requests tab in GTech µLearn repo, you’ll be able to see your pull request. Open it and copy your pull request URL.
 
-1. Submit the link in #tfp-submissions channel with the hashtag, `#ge-git-github`
+1. Submit the link in #task-dropbox channel with the hashtag, `#ge-git-github`
 2. With your submission, feel free to drop in a small note about your experience with doing this assignment. 😄  We’d be delighted to read it.
 
 ### Resources
