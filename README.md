@@ -44,7 +44,7 @@ So, GitHub is a service something like Google drive. To save our files or to mak
 
 So the question is how would GitHub know it is you, the right user trying to push files to a particular GitHub account from a local machine using git?
 
-**Using SSH Keys (താക്കോൽ എവിടെ?** 🤔 **)**
+**Using SSH Keys(Linux/Mac) (താക്കോൽ എവിടെ?** 🤔 **)**
 GitHub has the feature to use SSH keys to establish a secure, authenticated way of data transfer. It would basically ensure you are the right user. So let’s setup SSH keys for your GitHub account. 
 
 This wasn’t covered in the session, but it’s fairly easy to do. Follow the steps below.
@@ -74,11 +74,16 @@ https://docs.github.com/en/enterprise-server@3.1/authentication/connecting-to-gi
 
 Now as we said earlier, you’ve successfully setup an authentication method between Github( the remote), and your local machine. Hip Hip Hurray! 🥂 (പെവെർ 😎 💪 )
 
+**Using HTTPS**
+
+1. If you are a Windows user, you skip the SSH part and clone the github repository using the HTTPS Option, mentioned in the clone button.
+2. Just copy the link from the clone button, and use the `git clone [link]` command to clone the repository
+
 **The Assignment:**
 
 1. Let’s write a book! You’re building a book app. It has the feature for the author to add a book. We’ll be working on that feature of the app today. (Don’t worry we’ll be using text files for now)
 2. Fork this repo - [](https://github.com/gtech-mulearn/Github-Enablment-Task)https://github.com/gtech-mulearn/Github-Enablment-Task
-3. Once the fork is made, clone the repo using the SSH option. (Google if you don’t know how to)
+3. Once the fork is made, clone the repo using the SSH option/HTTP Option. (Google if you don’t know how to)
 4. After you’ve cloned it locally, do the list command, you should be able to see the repo now.
 5. Change directory into the cloned repo folder.
 6. Make a new branch called `develop`
@@ -98,7 +103,7 @@ Now as we said earlier, you’ve successfully setup an authentication method bet
 14. Uh oh! You just realised that you don’t need to add the change made to list_all_books.txt now.
 15. Unstage the list_all_books.txt. (If you don’t know the command, try a `git status` and read the output 😉. or Google for it)
 16. You realise that, since, list_all_books.txt is another feature, you decide to complete developing it on another branch. **Checkout to main branch first** and then create a new branch called `feature` and commit the list_all_books.txt file and it’s changes in that branch.
-17. In the same feature branch, now let’s make another change, to your list_all_books.txt file add the text `"List all books will list all books in ascending order."` You just added a new feature. 
+17. In the same feature branch, now let’s make another change, to your list_all_books.txt file add the text `"List all books will list all books in ascending order."` without deleting the first line, You just added a new feature and Ideally you should have 2 lines in list_all_books.txt now.
 18. Check the log to see the changes you’ve made so far.
 19. Let’s commit it. Your feature branch should ideally have a minimum of two commits now. 
 20. Now, to push back your changes and conrtibute your code to the GTech µLearn Github repository, you need to raise a Pull Request (പേടിക്കണ്ട നമുക്ക് സെറ്റ് ആക്കാം).
