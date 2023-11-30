@@ -2,6 +2,7 @@ name: PR Verification Workflow
 
 permissions:
   issues: write
+  pull-requests: write
 on:
   pull_request:
     types: [opened, synchronize, reopened]
