@@ -1,0 +1,68 @@
+name: PR Verification Workflow
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  verify-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Verify File Paths, Names and Contents
+        id: verify_files
+        run: |
+          #!/bin/bash
+          set -e
+
+          # Function to check file content
+          function check_file_content() {
+            if [ ! -s "$1" ]; then
+              echo "File $1 is empty"
+              echo "::set-output name=valid::false"
+              return 1
+            fi
+          }
+
+          VALID=true
+          EXPECTED_PATH_PATTERN="^.*_book_app/add_book_features/(create_book\.txt|list_all_books\.txt)$"
+
+          # Loop through all files in the PR
+          for file in $(git diff --name-only origin/main...HEAD); do
+            echo "Checking $file"
+
+            # Check if the file path matches the expected pattern
+            if [[ ! $file =~ $EXPECTED_PATH_PATTERN ]]; then
+              echo "Invalid file path for $file"
+              VALID=false
+              break
+            fi
+
+            # Check file content
+            check_file_content "$file" || VALID=false
+          done
+
+          if [ "$VALID" = true ]; then
+            echo "::set-output name=valid::true"
+          else
+            echo "::set-output name=valid::false"
+          fi
+
+      - name: Label PR
+        if: always()
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const isValid = ${{ steps.verify_files.outputs.valid }};
+            const prNumber = context.payload.pull_request.number;
+            const labels = isValid ? ['valid'] : ['invalid'];
+
+            github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: prNumber,
+              labels: labels
+            });
