@@ -1,6 +1,9 @@
-# General Enablement| Git & Github
+# General Enablement| Git & Github (Command Line version)
+
+> ### [Simplified version of this task Using Github Desktop](./githubDesktop.md)
 
 ഈ assignment ഇന്റെ നീട്ടം നോക്കണ്ട 😂  All is well. നമുക്ക് പതിയെ ചോദിച്ചു ചോദിച്ചു ചെയ്യാം.
+
 
 ### Let’s version control it!
 
