@@ -1,4 +1,2 @@
-ECHO is on.
-code Kevin_George_book_app/create_book.txt
 This is the feature for the author to add a new book.
 
