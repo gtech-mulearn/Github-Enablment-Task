@@ -1,2 +1,0 @@
-This is the feature for the author to add a new book.
-List all books will list all books in ascending order.
