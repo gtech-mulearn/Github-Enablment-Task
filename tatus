@@ -1,0 +1,153 @@
+[33mfb3fcbe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m Updated list_all_books.txt to sort books in ascending order
+[33m25bc3fe[m[33m ([m[1;32mmain[m[33m)[m Added list_all_books.txt to display books list
+[33m03ac800[m Added create_book.txt with book addition feature
+[33m1b7a82d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m Merge pull request #920 from Ananthan-didnot/develop
+[33m1877d84[m Merge pull request #929 from binthia-7705/develop
+[33mca600b2[m Merge pull request #932 from Code-Chad/develop
+[33m6122665[m Merge pull request #936 from gtech-mulearn/recover-911
+[33m8146200[m Restore files from commit 721ab24
+[33m47e6c92[m Merge branch 'feature' into develop
+[33mc80f621[m Enhance list_all_books to sort in ascending order
+[33m779347f[m Add list_all_books feature
+[33m1fd5e7e[m Add create_book feature
+[33m5f2b7f2[m Merge branch 'feature' into develop
+[33m462053d[m Update list_all_books.txt
+[33mb50e0f5[m New file list_all_books.txt
+[33m30650fb[m New file create_book.txt
+[33mbaefd0e[m Merge pull request #2 from Ananthan-didnot/feature
+[33md58708f[m Delete ananthakrishnan_k_v_book_app/add_books_feature/list_all_books.txt
+[33me334c41[m Update list_all_books.txt
+[33mf2c3641[m Create list_all_books.txt
+[33m2bb65eb[m Create list_all_books.txt
+[33med9e110[m Create create_book.txt
+[33m4fd5339[m Merge pull request #903 from Dawn-K-Vinod/Develop
+[33m5df1620[m Merge pull request #907 from snehaannjk/develop
+[33m9e11d1d[m Merge pull request #905 from DijinLeo/develop
+[33mf16c952[m Merge pull request #906 from adithjohn123/develop
+[33mbc3940f[m Merge pull request #909 from JEWELJJOSEPH/develop
+[33m7d36ec7[m Merge pull request #911 from josehp304/develop
+[33mf33b05e[m book app
+[33maafe7f0[m Add feature to create a new book
+[33m8732f0b[m Add create_book and list_all_books features
+[33me792cef[m Merge branch 'gtech-mulearn:develop' into develop
+[33m721ab24[m Merge branch 'develop' into feature
+[33m051b675[m change is made
+[33m62faedb[m second file
+[33mde2b829[m first file is created
+[33m3ccb76b[m Added create_book.txt feature for adding a book
+[33m8ece530[m Merge pull request #900 from caveman210/develop
+[33m48f4a5d[m Merge pull request #898 from rishhhane/develop
+[33m92ec8a2[m Merge pull request #897 from Alex-S07/develop
+[33m7dd73cd[m Merge pull request #1 from Dawn-K-Vinod/feature
+[33mcecebda[m Update list_all_books.txt
+[33ma343a00[m Create list_all_books.txt
+[33m44a009b[m Create create_book.txt
+[33me4c8f49[m Minor edit
+[33mc6e9510[m Some damn file.
+[33m290af11[m Messed up.
+[33mf21e427[m Created second file
+[33m10e8aa8[m Created first file
+[33mf60bd92[m Updated list_all_books.txt to include sorting feature
+[33m0a0236b[m Added create_book.txt for book creation feature
+[33me037ec8[m Renamed list_all_books.txt to the correct directory
+[33m6375f8b[m Merge branch 'feature' into develop
+[33m59993fa[m updated list all books feature
+[33ma466426[m Added list all books feature
+[33m2a18d20[m Added create_book feature
+[33m7012a7c[m First
+[33m78ffae4[m Merge pull request #868 from rubyaj24/main
+[33mb27bea8[m Merge pull request #869 from joshilsabraham/develop
+[33m2cbbc39[m Merge pull request #876 from GokulShaji2005/develop
+[33mf96de48[m Merge pull request #887 from Martin-prog-spec/develop
+[33m6365548[m Merge branch 'feature' into develop
+[33mb21e8fd[m Updated list_all_books.txt to list books in ascending order
+[33m4e1c6bf[m Added list_all_books.txt for listing all books
+[33m1b32711[m Added create_book.txt for adding new books
+[33m1a7636f[m hheheheh
+[33m197db3e[m heheh
+[33m25fec24[m hehe
+[33m7b53876[m Added list_all_books.txt for listing books
+[33ma725bd6[m Added create_book.txt for add book feature
+[33md895cc7[m resolved merge
+[33m6d62dc9[m updated list_all_books including ascending
+[33m98c522a[m add list_all_books in feature
+[33me258766[m Added create_book.txt with book feature description
+[33me0f14d7[m Merge branch 'feature' into develop
+[33m29901df[m Updated list_all_books.txt with additional features
+[33m9447252[m Ellam done
+[33m034bec1[m create book text created
+[33m9c54e52[m Merge pull request #866 from cetmulearnrvc/develop
+[33m3b18d80[m Create list_all_books.txt
+[33m64eef15[m Create create_book.txt
+[33mb99a169[m Merge branch 'feature' into develop
+[33me133490[m Updated_list_all_books_feature
+[33m0ba3585[m Added_list_all_books_feature
+[33m4864d3e[m Added_create_book_feature
+[33me259272[m Merge pull request #860 from akshayysk/develop
+[33m3fc82ea[m Merge branch 'feature' into develop
+[33md01ba34[m Enhance list all books feature with sorting
+[33mbff4fb6[m Add list all books feature
+[33m6a28624[m Add create_book feature
+[33m8f9ad58[m Merge pull request #849 from Amalshaheen/develop
+[33m478684c[m Merge branch 'feature' into develop
+[33m7ce792c[m added new feature
+[33mb4fdf75[m list_all_book feature added
+[33m458dfc5[m created new file : create_book.txt
+[33ma643307[m Merge pull request #847 from aravinnndddd/develop
+[33m9af7dd2[m Update list_all_books.txt
+[33m64b56bd[m Merge branch 'feature' into develop
+[33mf565400[m Updated list_all_books.txt
+[33mf089290[m Added create_book.txt file
+[33m8ee9e31[m Merge pull request #843 from Althiya-Francis/develop
+[33m89eacb5[m Merge branch 'feature' into develop This merge includes the new feature for listing all books and related enhancements.
+[33md079b82[m Add sorting feature to list_all_books
+[33mf9b77e1[m Add list_all_books feature
+[33md835dec[m Add create_book feature
+[33mb6ec335[m Merge pull request #838 from amal152/develop
+[33m97abb52[m Merge branch 'feature' into develop
+[33m1b3a4d3[m Add sorting feature to list_all_books
+[33m7817449[m Add list_all_books feature
+[33m059099e[m Add create_book feature
+[33m3027374[m Merge pull request #806 from arnavam/develop
+[33m5448b28[m Merge branch 'feature' into develop
+[33m43f1feb[m feature spefication for list all books
+[33m3f57320[m feature spefication for list all books
+[33mdf752b5[m created feature specifcation
+[33mc9db85a[m Merge pull request #779 from thesrhari/develop
+[33m46f50a7[m Merge pull request #782 from ABHISHEK2k6/develop
+[33mef0e7fe[m Added list of books
+[33m5a545e5[m Added create book
+[33m79827f4[m Merge branch 'feature' into develop
+[33mc00be09[m Update list_all_books.txt
+[33mb02633d[m Create list_all_books.txt
+[33mf52d261[m Initial commit
+[33m830380d[m Merge pull request #778 from vaishakhwastaken/develop
+[33m38c89eb[m list all books
+[33m0ec4579[m create book
+[33m2f66bdb[m Merge pull request #777 from Sarvesh177/develop
+[33mcb0a76d[m Add ascending order functionality to list_all_books feature
+[33md6fe4c3[m list_all_books.txt with feature description
+[33mbb81498[m Add create_book.txt with feature description
+[33mfb7ed32[m Merge pull request #762 from dani-s-h007/develop
+[33md3eeef5[m Merge pull request #771 from astrofisist/develop
+[33ma5de5f9[m Resolved merge conflict
+[33m7634332[m Added list_all_books.txt feature
+[33mcac930d[m Add sorting feature to list_all_books.txt
+[33m165ee91[m Add list_all_books.txt feature
+[33m11856f5[m Merge pull request #759 from Praveenuhhuv/develop
+[33m7a6a43c[m Merge pull request #758 from mathewjosephta/main
+[33m8955b2c[m Merge branch 'feature' into develop
+[33m7ffa728[m Add feature to list all books in ascending order.
+[33m64a3e02[m Add create_book.txt with book addition feature.
+[33m1873395[m Add create_book.txt with book addition feature.
+[33m32640f9[m Create list_all_books.txt
+[33mad0ed39[m Create create_book.txt
+[33m730faf1[m Merge pull request #754 from abhips2005/develop
+[33mefcbc3f[m Merge pull request #756 from siyad01/develop
+[33m7f2c224[m Update list_all_books feature with sorting details
+[33m3b8db42[m Add list_all_books feture description
+[33m2561845[m Update list_all_books feature with sorting info
+[33m58746a6[m Update list_all_books feature with sorting info
+[33m9598d4c[m Add list_all_books feature
+[33md3c6fee[m Add create_book feature
+
