@@ -1,0 +1,1 @@
+This file contains additional information required for the assignment task. It demonstrates the addition of a second file to the feature branch.
