@@ -1,3 +1,2 @@
 This is the feature which shows the user all the books they've created as a list
 This directory contains educational books on various programming topics. Each file is named according to its subject for easy identification.
-Use the command ls *.pdf or ls *.md in the terminal to list all available books in this folder.
