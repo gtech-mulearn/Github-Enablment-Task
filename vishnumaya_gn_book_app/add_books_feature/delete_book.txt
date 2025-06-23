@@ -1,0 +1,1 @@
+This feature allows the author to delete a book from the list.
