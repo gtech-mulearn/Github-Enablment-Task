@@ -1,0 +1,1 @@
+The user can now view all added books in a structured list format.
