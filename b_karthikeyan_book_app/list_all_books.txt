@@ -1,1 +1,2 @@
 Initial content about list_all_books feature
+List all books will list all books in ascending order.
