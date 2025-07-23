@@ -1,5 +1,2 @@
 This is the feature which shows the user all the books they’ve created as a list.
-<<<<<<< HEAD
 List all books will list all books in ascending order.
-=======
->>>>>>> 03ab509ef6abbabb581bd7bb15042a98162fb8bc
