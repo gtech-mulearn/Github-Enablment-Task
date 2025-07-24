@@ -1,2 +1,0 @@
-Book app feature details for Adithya J S.
-This feature adds the ability to add books to the app.
