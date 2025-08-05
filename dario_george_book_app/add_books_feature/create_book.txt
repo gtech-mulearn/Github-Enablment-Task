@@ -1,0 +1,1 @@
+This feature allows the author to add a new book.
