@@ -1,5 +1,1 @@
 This is the feature which shows the user all the books they’ve created as a list.
-List all books will list all books in ascending order.
-1. Clean Code — Robert C. Martin — 2008
-2. The Pragmatic Programmer — Andrew Hunt & David Thomas — 1999
-3. Introduction to Algorithms — Cormen, Leiserson, Rivest, Stein — 2009
