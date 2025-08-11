@@ -1,5 +1,1 @@
 This is the feature for the author to add a new book.
-Book Title: The Pragmatic Programmer
-Author: Andrew Hunt, David Thomas
-Genre: Programming
-Year: 1999
