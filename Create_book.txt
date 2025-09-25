@@ -1,3 +1,0 @@
-"This is the feature for the author to add a new book."
-The feature also allows users to quickly search and navigate through their collection, making book management easier.
-This feature also supports quick search and filtering to help users efficiently navigate their book list.
