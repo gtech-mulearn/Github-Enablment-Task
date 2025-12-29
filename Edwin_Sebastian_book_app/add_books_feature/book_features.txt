@@ -1,1 +1,0 @@
-The book app allows authors to manage their book collection efficiently. Users can search for books by title, author, or genre to find exactly what they're looking for.

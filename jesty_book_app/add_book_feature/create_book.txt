@@ -1,1 +1,0 @@
-This feature allows the author to create a new book.

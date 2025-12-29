@@ -1,2 +1,0 @@
-This file contains metadata about the book.
-It helps in organizing and retrieving book details efficiently.
