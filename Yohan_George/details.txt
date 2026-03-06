@@ -1,0 +1,5 @@
+Name: Yohan George
+Institution: SNG College of Engineering
+GitHub Username: YOHAN38087
+Why I want to learn GitHub:
+I want to learn GitHub to collaborate on real-world projects, manage versions of my code effectively, and contribute to open-source communities.
