@@ -1,3 +1,9 @@
 This is the feature which shows the user all the books they’ve created as a list.
+<<<<<<< HEAD
 List all books will list all books in ascending order.
+=======
 List all books will list all books in ascending order.
+
+List all books will list all books in ascending order.
+
+>>>>>>> 54c2d6d9f34b2492a6f27ededa654c845c0075c3
