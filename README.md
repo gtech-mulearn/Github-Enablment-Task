@@ -112,7 +112,6 @@ Now as we said earlier, you’ve successfully setup an authentication method bet
 23. Once the merge is complete. Push the develop branch to the remote.
 24. Navigate to your forked repo in your Github.
 25. Find the option to open a PR. Open your PR from your develop branch to the main branch of the GTech µLearn repo. Give your PR a meaningful title and description. Open the PR.
-
 You’re a superstar! You just learned the basic Git & Github workflow! 🥳  
 
 ### Assignment Submission
@@ -127,5 +126,5 @@ Now if you go to the pull requests tab in GTech µLearn repo, you’ll be able t
 Refer to the session recording here → [https://www.youtube.com/watch?v=Bg2U_Cgp3K0&ab_channel=GTechµLearn](https://www.youtube.com/watch?v=Bg2U_Cgp3K0&ab_channel=GTech%C2%B5Learn)
 
 Google is your best friend. You can refer to other simple Git and GitHub videos in YouTube.
-- Name: Saniya Manoj
+- Name: Avani A P
 - Task: Completed GitHub Basics
