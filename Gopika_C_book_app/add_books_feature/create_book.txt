@@ -1,0 +1,2 @@
+Feature: Create Book
+Users can add a new book to the application.
